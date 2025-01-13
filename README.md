@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ericsson India Global Services Private Limited
 - 🌱 I’m currently learning GitOps
-- 👯 I’m looking to collaborate on a freelancing DevOps, Cloud Native project 
+- 👯 I’m looking to collaborate on a freelancing DevOps, Cloud Native projects.
 - 💬 Ask me about DevOps & GitOps
 - 📫 How to reach me: gopavarammohankumar43@gmail.com
 
