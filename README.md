@@ -2,7 +2,7 @@
 
 
 
-DevOps Engineer with 5+ years of experience in CI/CD, Cloud (AWS, Azure), Containers (Docker, Kubernetes), Infrastructure as Code (Terraform, Ansible), and Git (Git, GitHub, GitLab). Certified Kubernetes Administrator (CKA).
+DevOps Engineer with 6+ years of experience in CI/CD, Cloud (AWS, Azure), Containers (Docker, Kubernetes), Infrastructure as Code (Terraform, Ansible), and Git (Git, GitHub, GitLab). Certified Kubernetes Administrator (CKA).
 
 ## [About:]()
 Here are some ideas to get you started:
